@@ -20,13 +20,11 @@ Meu nome é Jhonatan, sou estudande de Sistemas de Informação e curioso por tu
 
 <div>
  <br>
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/nuget.svg" alt="nuget" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/jetbrains_rider.svg" alt="jetbrains_rider" style="vertical-align:top; margin:4px">
 <br>
 <div/>
 
