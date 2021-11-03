@@ -6,11 +6,11 @@
 
 ## Olá, bem-vindos ao meu perfil! 👋
 
-Meu nome é Jhonatan, sou estudande de sistemas de informação e curioso por tudo que cerca a tecnologia!
+Meu nome é Jhonatan, sou estudande de Sistemas de Informação e curioso por tudo que cerca a tecnologia!
 
-- :blue_heart: Techs: Ecossistema Spring, Java, React.JS e JavaScript.
-- :books: 5º Período - Bacharelado em Sistemas de Informação - PUCPR :heart:
--  🌱 No momento estudando Java e o ecossistema Spring. 
+- :blue_heart: Techs: Ecossistema .NET, C#.
+- :books: 6º Período - Bacharelado em Sistemas de Informação - PUCPR :heart:
+-  🌱 No momento estudando ecossistema .NET. 
 
 ---
 
