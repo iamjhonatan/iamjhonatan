@@ -9,7 +9,7 @@
 Meu nome é Jhonatan, sou estudande de Sistemas de Informação e curioso por tudo que cerca a tecnologia!
 
 - :blue_heart: Techs: Ecossistema .NET, C#.
-- :books: 6º Período - Bacharelado em Sistemas de Informação - PUCPR :heart:
+- :books: 7º Período - Bacharelado em Sistemas de Informação - PUCPR :heart:
 -  🌱 No momento estudando ecossistema .NET. 
 
 ---
