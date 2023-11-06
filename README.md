@@ -6,11 +6,11 @@
 
 ## Olá, bem-vindos ao meu perfil! 👋
 
-Meu nome é Jhonatan, sou estudande de Sistemas de Informação e curioso por tudo que cerca a tecnologia!
+Meu nome é Jhonatan, sou Bacharel em Sistemas de Informação, pela PUC-PR, e curioso por tudo que cerca a tecnologia!
 
-- :blue_heart: Techs: Ecossistema .NET, C#.
-- :books: 8º Período - Bacharelado em Sistemas de Informação - PUCPR :heart:
--  🌱 No momento estudando ecossistema .NET. 
+- :blue_heart: Techs: Ecossistema .NET.
+- :books: Bacharelado em Sistemas de Informação - PUCPR :heart:
+-  🌱 No momento estudando ecossistema .NET.
 
 ---
 
