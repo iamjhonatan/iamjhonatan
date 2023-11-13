@@ -8,8 +8,14 @@
 
 Meu nome é Jhonatan, sou Bacharel em Sistemas de Informação, pela PUC-PR, e curioso por tudo que cerca a tecnologia!
 
-- :blue_heart: Techs: Ecossistema .NET.
-- :books: Bacharelado em Sistemas de Informação - PUCPR :heart:
+- :blue_heart: Techs: <br>
+--  Backend: .NET (C#); <br>
+--  Banco de dados relacional: SQLServer, MySQL; <br>
+--  Não-relacional: DynamoDB, MongoDB; <br>
+--  Testes unitários: xUnit, MSTest; <br>
+--  Azure: Blob, Function, Service Bus; <br>
+--  AWS: S3, Lambda, SES, SQS, ParameterStore. <br>
+- :books: Bacharelado em Sistemas de Informação - Pontifícia Universidade Católica do Paraná- PUC-PR;
 -  🌱 No momento estudando ecossistema .NET.
 
 ---
@@ -25,6 +31,7 @@ Meu nome é Jhonatan, sou Bacharel em Sistemas de Informação, pela PUC-PR, e c
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/nuget.svg" alt="nuget" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/jetbrains_rider.svg" alt="jetbrains_rider" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:4px">
 <br>
 <div/>
 
